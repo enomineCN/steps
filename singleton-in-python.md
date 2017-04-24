@@ -1,3 +1,9 @@
+---
+title: Singleton in Python
+date: 2017-04-17 09:27:22
+tags: 
+- singleton
+---
 # Singleton in Python
 >本文所有代码未考虑线程安全
 >

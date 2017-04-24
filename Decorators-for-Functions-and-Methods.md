@@ -1,3 +1,9 @@
+---
+title: Decorators for Functions and Methods
+date: 2017-04-17 09:27:22
+tags: 
+- decorator
+---
 # Decorators for Functions and Methods
 
 ## 1.Function Decorators 

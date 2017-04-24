@@ -1,3 +1,9 @@
+---
+title: git 中文乱码
+date: 2017-04-17 09:27:22
+tags: 
+- git
+---
 ## git config
 
 `git config --global core.quotepath false`

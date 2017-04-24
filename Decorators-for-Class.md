@@ -1,4 +1,10 @@
-#  Decorator for Class
+---
+title: Decorator for Class
+date: 2017-04-17 09:27:22
+tags: 
+- decorator
+---
+#  Decorators for Class
 
 ## 1.Class Decorators
 
