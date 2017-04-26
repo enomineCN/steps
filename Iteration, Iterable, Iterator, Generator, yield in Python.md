@@ -15,7 +15,7 @@ tags:
 ## 迭代(Iteration)
 **迭代**，指的是按照某种顺序逐个访问列表中的每一项。
 
-在 Python 中，用` for` 来实现迭代，它的结构是 `for ... in ...`，实际是利用可迭代对象`Iterable`得到迭代器`Iterator`，再重复调用 `__next()__ `方法实现的。
+在 Python 中，用` for` 来实现迭代，它的结构是 `for ... in ...`，实际是利用可迭代对象`Iterable`得到迭代器`Iterator`，再重复调用 `__next__ `方法实现的。
 
 ![](http://nvie.com/img/iterable-vs-iterator.png)
 
@@ -32,7 +32,7 @@ tags:
 
 - 可以`for`循环： `for i in iterable`
 - 可以按`index`索引：定义了`__getitem__`方法，比如`list,str`
-- 可以通过调用`__iter__()`方法或者被`iter(obj)`调用，返回一个迭代器`Iterator`
+- 可以通过调用`__iter__`方法或者被`iter(obj)`调用，返回一个迭代器`Iterator`
 
 可以通过`isinstance(obj, collections.Iterable)` 来判断对象是否为可迭代对象。
 
@@ -97,7 +97,7 @@ gen.__next__()
 gen.__next__()
 # StopIteration
 ```
-### 三个内置方法
+### 三个内置方法(3 build-in methods)
 
 #### close()
 
