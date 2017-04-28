@@ -1,6 +1,8 @@
 ---
-title: git 中文乱码
-date: 2017-04-17 09:27:22
+title: Git中文乱码解决办法
+date: 2016-06-30 09:27:22
+categories: 
+- skill
 tags: 
 - git
 ---

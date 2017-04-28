@@ -1,9 +1,9 @@
 ---
-title: Iteration, Iterable, Iterator, Generator, yield in Python
+title: 理解Python中的迭代、可迭代对象、迭代器、生成器、yiled专题
 date: 2017-04-24 19:11:25
-categories: 
+categories:
 - Python
-tags: 
+tags:
 - iteration
 - iterable
 - iterator

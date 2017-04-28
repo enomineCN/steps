@@ -1,12 +1,14 @@
 ---
-title: Decorators for Functions and Methods
+title: Python装饰器之函数的装饰器
 date: 2017-04-17 09:27:22
+categories: 
+- Python
 tags: 
 - decorator
 ---
 # Decorators for Functions and Methods
 
-## 1.Function Decorators 
+## 1.函数实现装饰函数的装饰器（Function Decorators） 
 ### 1.1函数不带参数
 ```python
 def decorator(fun):
@@ -85,7 +87,7 @@ def echo():
 
 print(echo.__name__)
 ```
-## 2.Class Decorators
+## 2.类实现装饰函数的装饰器（Class Decorators）
 ###2.1函数不带参数
 ```python
 class Decorator:

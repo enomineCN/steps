@@ -1,5 +1,5 @@
 ---
-title: 通过Git Hook 部署 Hexo 至VPS空间
+title: 通过GitHook部署Hexo至VPS空间
 date: 2016-12-11 16:23:26
 tags: 
 - VPS
@@ -7,7 +7,10 @@ tags:
 - git hook
 - hexo
 ---
+# Deploy Hexo Blog to VPS By Git Hook
+
 ## 基本思路
+
 - 将Hexo生成的博客静态文件利用git上传到VPS中的git仓库中
 - 服务器端git仓库收到git push 之后，通过git hook 触发 一段shell 脚本
 - shell脚本将git push过来的网页静态文件复制到已经配置好nginx的文件目录下

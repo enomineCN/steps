@@ -1,10 +1,12 @@
 ---
-title: PyPI使用国内源
+title: PyPI使用国内镜像源
 date: 2016-10-26 22:20:33
+categories: 
+- Python
 tags: 
 - PyPI
 ---
-# PyPI使用国内源
+# Using a mirror in PyPI
 
 - 阿里云 http://mirrors.aliyun.com/pypi/simple/
 - 中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/ 

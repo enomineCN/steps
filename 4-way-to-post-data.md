@@ -1,11 +1,11 @@
 ---
-title: 四种常见的 POST 提交数据方式
+title: 四种常见的POST提交数据方式
 date: 2016-11-25 14:11:25
 tags: 
 - http
 - POST
 ---
-# 四种常见的 POST 提交数据方式
+# 4 way to POST data
 
 [HTTP/1.1 协议](http://www.ietf.org/rfc/rfc2616.txt)规定的 HTTP 请求方法有 OPTIONS、GET、HEAD、POST、PUT、DELETE、TRACE、CONNECT 这几种。其中 POST 一般用来向服务端提交数据，本文主要讨论 POST 提交数据的几种方式。
 

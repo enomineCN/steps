@@ -1,12 +1,14 @@
 ---
-title: Decorator for Class
-date: 2017-04-17 09:27:22
+title: Python装饰器之类的装饰器
+date: 2017-04-17 09:27:23
+categories: 
+- Python
 tags: 
 - decorator
 ---
 #  Decorators for Class
 
-## 1.Class Decorators
+## 1.类实现装饰类的装饰器（Class Decorators）
 
 ### 1.1装饰器不带参数
 ```python
@@ -97,7 +99,7 @@ A('1')
 A('2')
 ```
 
-## 2.Function Decorators
+## 2.函数实现装饰类的装饰器（Function Decorators）
 
 ```python
 def Decorator(*args, **kwargs):

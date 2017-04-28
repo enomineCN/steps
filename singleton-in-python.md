@@ -1,6 +1,8 @@
 ---
-title: Singleton in Python
+title: 单利模式Python下的几种实现方式
 date: 2017-04-17 09:27:22
+categories: 
+- Python
 tags: 
 - singleton
 ---

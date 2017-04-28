@@ -1,12 +1,14 @@
 ---
-title: itertools.gropby使用
+title: itertools.gropby使用例子
 date: 2016-11-21 16:36:33
+categories: 
+- Python
 tags: 
 - itertools
 - gropby
 ---
 
-----
+# itertools-gropby-example
 
 ## 问题背景
 

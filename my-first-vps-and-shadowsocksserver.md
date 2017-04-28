@@ -1,13 +1,18 @@
 ---
 title: My First VPS and SSserver
 date: 2016-11-26 12:20:33
+categories: 
+- Linux
 tags: 
 - VPS
 - Shadowsocks
 - SSserver
 ---
 
+# My First VPS and ShadowsocksServer
+
 ## 前言
+
 早在2011年，我的高中同学JQ.Lee就给我普及了天朝GFW的相关知识，以及教会我科学上网的正确姿势，从此，一扇新的大门向我敞开。
 当时，爱折腾的JQ.Lee就自己到国外买了台服务器，搭建起了自己的SSserver，他也十分大方的将自己的SSserver与我共享。
 就这样我享受着自由上网，直到后来，他的梯子越来越不稳定，我就想自己搭梯子了。

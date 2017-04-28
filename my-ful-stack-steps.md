@@ -1,7 +1,10 @@
 ---
-title: 待学习列表
+title: My Full Stack Steps
 date: 2016-11-25 14:11:25
-tags: learning
+categories: 
+- steps
+tags: 
+- learning
 ---
 
 # Core
